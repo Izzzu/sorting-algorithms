@@ -15,12 +15,9 @@ public class InsertionSort {
                 ar[j+1] = key;
             }
             printArray(ar);
-        }
-        // Fill up the code for the required logic here
-        // Manipulate the array as required
-        // The code for Input/Output is already provided
-    }
 
+        }
+    }
 
 
     public static void main(String[] args) {
